@@ -15,14 +15,14 @@ my_array_length = int(input("enter array length: "))
 my_list = random.sample (range (1, 100), my_array_length)
 result_list = []
 
-for m in range(0,my_array_length):
-    if m==(my_array_length-1):
+for n in range(0,my_array_length):
+    if n==(my_array_length-1):
         break
 
-#    x=(my_list[m]+my_list[m+1])/2
+#    x=(my_list[n]+my_list[n+1])/2
 #    print(x)
 
-    result_list.append(round((float((my_list[m]+my_list[m+1])/2)),2))
+    result_list.append(round((float((my_list[n]+my_list[n+1])/2)),2))
 
 #print('\nInput list:\n')
 #print(my_list)
