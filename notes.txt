@@ -1,3 +1,4 @@
+Ihalabalabalalalala
 Git has become the worldwide standard for version control. So what exactly is it?
 
 Git is a distributed version control system, which means that a local clone of the project is a complete version control repository. These fully functional local repositories make it easy to work offline or remotely. Developers commit their work locally, and then sync their copy of the repository with the copy on the server. This paradigm differs from centralized version control where clients must synchronize code with a server before creating new versions of code.
