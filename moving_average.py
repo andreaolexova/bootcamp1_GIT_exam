@@ -11,7 +11,8 @@
 import random
 #import numpy
 
-my_array_length = int(input("enter array length: "))
+#my_array_length = int(input("enter array length: "))
+my_array_length = 5
 my_list = random.sample (range (1, 100), my_array_length)
 result_list = []
 
