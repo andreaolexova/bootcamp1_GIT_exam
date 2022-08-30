@@ -4,9 +4,6 @@
 
 # https://www.geeksforgeeks.org/how-to-calculate-moving-averages-in-python/
 
-# Klouzavý průměr je: Statistická metoda eliminující výkyvy v časových řadách. Počítá se z údajů časové řady tak,
-# že se postupně k danému počtu údajů (např. 12 měsíců) přiřazuje vždy jeden údaj následující a první údaj v řadě
-# se vypouští.
 
 import random
 #import numpy
